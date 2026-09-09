@@ -6,7 +6,7 @@ text here
 
 # new section
 
-lorem ipsum
+ipsum lorem, to change it up
 
 # newer section
 
