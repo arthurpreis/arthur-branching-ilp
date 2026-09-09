@@ -3,3 +3,7 @@
 # Branching exercise
 
 text here
+
+# new section
+
+lorem ipsum
